@@ -8,7 +8,7 @@
 O que você vai aprender neste projeto:
 * O que são redes neurais artificiais e como construir uma simples.
 * Como dados de imagens são armazenados e podem ser processados através da vetorização.
-* Um classificador de imagens de gatos que utiliza Deep Learning.
+* Um classificador de imagens de gatos que utiliza Redes Neurais.
 
 <p>
   
