@@ -1,4 +1,4 @@
-##  Detectando imagens de gatos com Deep Learning
+##  Detectando imagens de gatos com Redes Neurais
 
 <p align="center">
   <img src="https://miro.medium.com/max/700/1*nknR8QjDs7xHLmdRkPNj1g.png" height=400px >
